@@ -1,4 +1,4 @@
-![Kin Token](../kin_android.png)
+![Kin Token](..COVID19/kin_android.png)
 # Kin Android SDK
 
 With the Kin SDK for Android you can give your users fun ways to earn and spend Kin in your app, and help us build a whole new digital world.
