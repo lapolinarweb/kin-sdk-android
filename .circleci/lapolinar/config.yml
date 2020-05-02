@@ -1,7 +1,7 @@
 version: 2.1
 executors:
   kin-executor:
-    working_directory: ~/code
+    working_directory: ~/COVID19
     docker:
       - image: circleci/android:api-28
     resource_class: xlarge
